@@ -1,6 +1,6 @@
 # CP de Frontend - Next.js
 
-Este repositório contém o projeto **CP de Frontend** desenvolvido por **Nayla**, **Manuela** e **Karen**. O projeto está sendo criado seguindo a trilha de aprendizado do [Next.js](https://nextjs.org/), onde estamos explorando as funcionalidades do framework e construindo um aplicativo moderno e eficiente.
+Este repositório contém o projeto **CP de Frontend** desenvolvido por **Nayla - 99035**, **Manuela - 552097** e **Karen - 551126**. O projeto está sendo criado seguindo a trilha de aprendizado do [Next.js](https://nextjs.org/), onde estamos explorando as funcionalidades do framework e construindo um aplicativo moderno e eficiente.
 
 ## Sobre o Projeto
 
